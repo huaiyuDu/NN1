@@ -1,0 +1,11 @@
+D:\git\NN1\NN1\bin\Debug\NN1.exe.config
+D:\git\NN1\NN1\bin\Debug\NN1.exe
+D:\git\NN1\NN1\bin\Debug\NN1.pdb
+D:\git\NN1\NN1\obj\Debug\NN1.csprojAssemblyReference.cache
+D:\git\NN1\NN1\obj\Debug\NN1.Form1.resources
+D:\git\NN1\NN1\obj\Debug\NN1.Properties.Resources.resources
+D:\git\NN1\NN1\obj\Debug\NN1.csproj.GenerateResource.cache
+D:\git\NN1\NN1\obj\Debug\NN1.csproj.CoreCompileInputs.cache
+D:\git\NN1\NN1\obj\Debug\NN1.exe
+D:\git\NN1\NN1\obj\Debug\NN1.pdb
+D:\git\NN1\NN1\obj\Debug\NN1.GUI.CreateInputDialog.resources
